@@ -1,0 +1,12 @@
+{
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "attachmentFolderPath": "./附件",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "rightToLeft": false
+}

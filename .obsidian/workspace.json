@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "05745aa3f7845b61",
+    "type": "split",
+    "children": [
+      {
+        "id": "74314e812b698b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "957bc164bc92ce8a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1adffcbb28435264",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d0bf6762c2e918",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c9db64405eb488b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18a4eefc0ed1caad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eda06accf29f19fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 473.5
+  },
+  "right": {
+    "id": "e023463745971b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "394cd40d91dcecef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "898e878a3f23882c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b825b67a99d9a2e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc670abba0466807",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "867d29860a28b146",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "9c9db64405eb488b",
+  "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Geometric Partitioning Explore the Boundary of  Optimal Erasure Code Repair.md",
+    "附件/Pasted image 20240724141744.png",
+    "附件/Pasted image 20240724141408.png",
+    "附件/-20240724.png",
+    "附件/-20240724.png",
+    "附件/Geometric Partitioning Explore the Boundary of  Optimal Erasure Code Repair.png",
+    "Excalidraw/Drawing 2024-07-22 14.13.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-22 14.13.40.excalidraw.png",
+    "附件/20240703144408.png",
+    "附件/20240703140534.png",
+    "附件/Pasted image 20240703140534.png",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "未命名.canvas",
+    "附件/sosp21-shan.pdf",
+    "附件"
+  ]
+}
