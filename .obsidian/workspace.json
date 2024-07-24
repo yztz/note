@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a38453b8cc815d5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometric Partitioning Explore the Boundary of Optimal Erasure Code Repair.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometric Partitioning Explore the Boundary of Optimal Erasure Code Repair.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geometric Partitioning Explore the Boundary of Optimal Erasure Code Repair.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +161,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7121b0a691ab239",
+  "active": "a38453b8cc815d5f",
   "lastOpenFiles": [
     "Geometric Partitioning Explore the Boundary of Optimal Erasure Code Repair.md",
+    "README.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "附件/Pasted image 20240724141744.png",
     "附件/Pasted image 20240724141408.png",
