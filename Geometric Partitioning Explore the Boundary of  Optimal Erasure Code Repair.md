@@ -1,3 +1,4 @@
+
 ## Challenge
 
 MSR (Minimum Storage Regenerating) 在同样的存储效率与可靠性保证下实现了**最优化**的修复花费（需求最少的数据量）。
@@ -41,4 +42,6 @@ MSR (Minimum Storage Regenerating) 在同样的存储效率与可靠性保证下
 ![](附件/Pasted%20image%2020240724141744.png)
 
 ![](附件/Pasted%20image%2020240724141408.png)
+
+
 
